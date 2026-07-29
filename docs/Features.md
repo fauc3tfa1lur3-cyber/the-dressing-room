@@ -597,15 +597,14 @@ Optional cultural styling feature.
 
 Supports:
 
+* Sigma Gamma Rho
 * Alpha Kappa Alpha
 * Alpha Phi Alpha
-* Alpha Phi Omega
 * Delta Sigma Theta
 * Iota Phi Theta
 * Kappa Alpha Psi
 * Omega Psi Phi
 * Phi Beta Sigma
-* Sigma Gamma Rho
 * Zeta Phi Beta
 
 ---
